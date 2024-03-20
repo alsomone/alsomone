@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: mmirkosalomon@gmail.com
 - ⚡ Fun fact: I do Brazilian Jiu-Jitsu, Skiing and Snowboard, chess and I love football
--->
+
 #### Languages and Tools:
 - [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![image](https://github.com/alsomone/alsomone/assets/56995572/e356b57c-6f0a-4235-9f14-d0bee363f5f0) ![image](https://github.com/alsomone/alsomone/assets/56995572/481f1067-9f79-4e30-b87e-ae259fe1de0e)
+-->
