@@ -3,7 +3,6 @@
 - ⚡ Fun fact: I do Brazilian Jiu-Jitsu, Skiing and Snowboard, chess and I love football
 
 
-
 <!--
 **alsomone/alsomone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
